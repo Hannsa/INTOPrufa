@@ -31,6 +31,8 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+
+	cout << "Eg heiti Hanna"<< endl;
 	int val;
 	do
 	{
